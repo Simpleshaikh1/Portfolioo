@@ -1,5 +1,0 @@
-services:
-  - name: personal-portfolio
-    type: web
-    buildCommand: npm run build
-    startCommand: npm run serve
