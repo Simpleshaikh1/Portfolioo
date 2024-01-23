@@ -112,7 +112,7 @@ function Skills() {
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="image" />    
-                                <h5>PostgresQl</h5>
+                                <h5>PostgreSQL</h5>
                             </div>
                         </Carousel> 
                     </div>

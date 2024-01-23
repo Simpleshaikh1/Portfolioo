@@ -496,6 +496,21 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 100%;
 }
 
+.proj-links {
+  display: flex;
+  gap: 3rem;
+  position: absolute;
+  left: 9rem;
+  /* margin-top: 0.5rem; */
+  text-align: center;
+  align-items: center;
+  color: black;
+}
+
+.link {
+  color: white;
+}
+
 .proj-imgbx:hover .proj-imgtxtx {
   top: 50%;
   opacity: 1;
