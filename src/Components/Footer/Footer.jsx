@@ -13,7 +13,7 @@ function Footer() {
                 <MailchimpForm />
 
                 <Col sm={6}>
-                    <img src={logo}  />
+                    {/* <img src={logo}  /> */}
                 </Col>
 
                 <Col sm={6} className='text-center text-sm-end'>
